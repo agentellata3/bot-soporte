@@ -1,0 +1,21 @@
+{
+  "name": "bot-soporte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@sapphire/shapeshift": "^3.9.2",
+    "ascii-table": "^0.0.9",
+    "canvas": "^2.11.2",
+    "discord.js": "^14.11.0",
+    "glob": "^8.0.3",
+    "uninstall": "^0.0.0",
+    "util": "^0.12.5"
+  }
+}
